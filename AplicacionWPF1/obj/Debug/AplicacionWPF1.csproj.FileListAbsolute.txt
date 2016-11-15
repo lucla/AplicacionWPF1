@@ -1,0 +1,14 @@
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\bin\Debug\AplicacionWPF1.exe.config
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\bin\Debug\AplicacionWPF1.exe
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\bin\Debug\AplicacionWPF1.pdb
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\AplicacionWPF1.csprojResolveAssemblyReference.cache
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\MainWindow.g.cs
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\App.g.cs
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\AplicacionWPF1_MarkupCompile.cache
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\AplicacionWPF1_MarkupCompile.lref
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\MainWindow.baml
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\AplicacionWPF1.g.resources
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\AplicacionWPF1.Properties.Resources.resources
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\AplicacionWPF1.csproj.GenerateResource.Cache
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\AplicacionWPF1.exe
+F:\VisualStudio\C#\01\AplicacionWPF1\AplicacionWPF1\obj\Debug\AplicacionWPF1.pdb
